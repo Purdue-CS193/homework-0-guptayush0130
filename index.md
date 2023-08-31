@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Some of my favourite things about CS 193 class
+-It does not have any tests or quizzes
+-The teaching style of the TA's is very fun and interesting
+-It is helping us learn things that we will be using very frequently during our programming journey
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
